@@ -1,0 +1,16 @@
+{
+  "name": "level-devil",
+  "version": "1.0.0",
+  "description": "A frustrating 2D platformer — 15 troll-filled levels with animated human character and leaderboard",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "keywords": ["game", "platformer", "level-devil"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
